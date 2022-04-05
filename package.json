@@ -9,6 +9,7 @@
   "author": "Fernando Soares",
   "license": "ISC",
   "dependencies": {
+    "mongoose": "^6.2.9",
     "puppeteer": "^13.5.1"
   }
 }
